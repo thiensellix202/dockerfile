@@ -1,5 +1,5 @@
 #update
-RUN !lscpu
+RUN lscpu
 
 #port
 EXPOSE 80
