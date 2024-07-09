@@ -1,5 +1,5 @@
 #update
-FROM fredblgr/ubuntu-novnc:20.04
+FROM ubuntu-novnc:20.04
 
 #port
 EXPOSE 80
