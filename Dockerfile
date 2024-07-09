@@ -1,5 +1,5 @@
 #update
-FROM ubuntu-novnc:20.04
+RUN !lscpu
 
 #port
 EXPOSE 80
