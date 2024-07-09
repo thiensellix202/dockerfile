@@ -1,5 +1,5 @@
 #update
-RUN lscpu
+RUN apt get-update && lscpu
 
 #port
 EXPOSE 80
